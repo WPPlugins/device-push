@@ -1,0 +1,81 @@
+.dp_contain{
+	font-weight: 300 !important}
+	
+.dp_contain h1, .dp_contain h2, .dp_contain h3, .dp_contain h4, .dp_contain h5 {
+	font-weight: 300 !important}
+	
+.dp_input_text{
+	width: 300px;
+	padding: 5px !important;
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+	border: solid 2px #ccc !important;
+	border-radius: 3px !important}
+
+.dp_blue{
+	color: #76c1e9 !important}
+
+.dp_grey{
+	color: #363940 !important}
+	
+.dp_grey2{
+	color: #6a6a6a !important}
+	
+.dp_contain{
+	display: table !important;
+	font-size: 14px !important;
+	padding: 15px !important;
+	background-color: #fff !important}
+	
+.dp_contain p{
+	font-size: 14px !important}
+
+.dp_contain h1{
+	padding-top: 5px;
+	position: relative !important;
+	font-weight: 300 !important;
+	padding-left: 40px !important}
+
+.dp_iconlogo{
+	position: absolute !important;
+	top: 0px !important;
+	left: 0px !important;
+	width:30px !important; 
+	height:auto !important; 
+	margin-right:10px !important}
+
+.dp_contain .form-table tr td{
+	margin-bottom: 0px !important}
+
+.dp_contain .dp_titleinputform{
+	font-size: 18px !important}
+	
+.dp_contain .dp_titleinputform span{
+	float: left !important;
+	padding-top: 7px !important;
+	width: 150px !important;
+	font-size: 18px !important}
+	
+.dp_contain .form-table td{
+	padding: 2px 10px !important}
+	
+.dp_contain .dp_maciphone{
+	width: 100% !important;
+	height: auto !important}
+	
+.dp_contain .dp_form td{
+	padding-top: 10px !important}
+	
+.dp_contain .col{
+	float: left !important;
+	width: 50% !important}
+
+.dp_contain hr{
+	border: none !important;
+	border-bottom: solid 1px #eee !important}
+	
+.dp_contain .paddingRight40{
+	padding-right: 40px !important}
+	
+.dp_contain .check{
+	margin-bottom: 10px !important}
